@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iceijeepah.manuelpineault.com/sitemap.xml
